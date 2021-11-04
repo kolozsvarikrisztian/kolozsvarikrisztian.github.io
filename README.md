@@ -1,4 +1,4 @@
-# kolozsvarikrisztian.github.io        /Földön kívüli élet   /nyiltnap
+# kolozsvarikrisztian.github.io
 # Eddig készült saját weboldalak
 ## Földön kívüli élet
 ### Résztvevők:
