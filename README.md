@@ -5,7 +5,7 @@ A Földön kívüli élet című témát egy csapatmunkában dolgoztuk fel. Az �
 - Nagy Tibor
 - Kiss Lajos Bertalan
 - Kolozsvári Krisztián
-![Földön kívüli élet](foldonkivuli.png)
+#![Földön kívüli élet](foldonkivuli.png)
 ## Nyílt nap
 Saját tervezésű weboldal, amely az iskolai nyílt napra készült bemutatóként. Bemutatja az alap HTML és CSS felépítését, illetve az addig készült weboldalakat is tartalmazza. A diákok ki is tudták próbálni, hogyan tudnak létrehozni és hogyan tudják módósítani a szerkezetét.
 ### A Nyílt nap projekt résztvevője:
