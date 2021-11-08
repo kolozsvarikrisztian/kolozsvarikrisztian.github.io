@@ -23,4 +23,5 @@ A Lucky kávézó projektet szintén csapatmunkában dolgoztuk fel. A feladat eg
 - Kolozsvári Krisztián
 
 ![Lucky kávézó](luckykavezo.png)
+[A csapatmunka elérhetősége](https://github.com/Lali98/Lali98.github.io/tree/master/lukcy_kavezo)
 
