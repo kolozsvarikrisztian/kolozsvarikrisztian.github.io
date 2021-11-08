@@ -22,5 +22,5 @@ A Lucky kávézó projektet szintén csapatmunkában dolgoztuk fel. A feladat eg
 - Kiss Lajos Bertalan
 - Kolozsvári Krisztián
 
-![Lucky kávézó(luckykavezo.png)
+![Lucky kávézó](luckykavezo.png)
 
