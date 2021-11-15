@@ -9,6 +9,7 @@ A Földön kívüli élet című témát egy csapatmunkában dolgoztuk fel. Az �
 
 ![Földön kívüli élet](foldonkivuli.png)
 [A Földön kívüli projekt elérhetősége](https://foldonkivulielet.lajoskiss.repl.co/)
+
 [A Földön kívüli projekt GitHub elérhetősége](https://github.com/Lali98/Lali98.github.io/tree/master/foldon_kivuli_elet)
 
 ## Nyílt nap
@@ -18,6 +19,8 @@ Saját tervezésű weboldal, amely az iskolai nyílt napra készült bemutatók�
 
 ![Nyílt nap](nyilt.png)
 [A Nyílt nap weboldal elérhetősége](https://nyiltnap.kolozsvarikrisztian.repl.co/)
+
+[A Nyílt nap weboldal GitHub elérhetősége](https://github.com/kolozsvarikrisztian/kolozsvarikrisztian.github.io/tree/main/nyiltnap)
 
 ## Modern, reszponzív weboldalak
 ## Lucky kávézó
@@ -29,4 +32,6 @@ A Lucky kávézó projektet szintén csapatmunkában dolgoztuk fel. A feladat eg
 
 ![Lucky kávézó](luckykavezo.png)
 [A csapatmunka elérhetősége](https://lali98.github.io/lukcy_kavezo/index.html)
+
+[A csapatmunka GitHub elérhetősége](https://github.com/Lali98/Lali98.github.io/tree/master/lukcy_kavezo)
 
