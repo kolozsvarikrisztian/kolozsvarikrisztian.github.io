@@ -5,6 +5,7 @@
   - Tibor
   - Krisztián
  
-[Weboldal megtekintése](https://kolozsvarikrisztian.github.io/)
+[Weboldal megtekintése](https://kolozsvarikrisztian.github.io/)  
+[Elérés a GitHub oldalon](https://github.com/Lali98/Lali98.github.io/tree/master/foldon_kivuli_elet)
 
 ![elonezetkicsi.png](elonezetkicsi.png)
