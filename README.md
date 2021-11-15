@@ -9,6 +9,7 @@ A Földön kívüli élet című témát egy csapatmunkában dolgoztuk fel. Az �
 
 ![Földön kívüli élet](foldonkivuli.png)
 [A Földön kívüli projekt elérhetősége](https://foldonkivulielet.lajoskiss.repl.co/)
+[A Földön kívüli projekt GitHub elérhetősége](https://github.com/Lali98/Lali98.github.io/tree/master/foldon_kivuli_elet)
 
 ## Nyílt nap
 Saját tervezésű weboldal, amely az iskolai nyílt napra készült bemutatóként. Bemutatja az alap HTML és CSS felépítését, illetve az addig készült weboldalakat is tartalmazza. A diákok ki is tudták próbálni, hogyan tudnak létrehozni és hogyan tudják módósítani a szerkezetét.
