@@ -7,7 +7,7 @@ A Földön kívüli élet című témát egy csapatmunkában dolgoztuk fel. Az �
 - Kiss Lajos Bertalan
 - Kolozsvári Krisztián
 
-![Földön kívüli élet](foldonkivuli.png)
+![Földön kívüli élet](fke.png)
 [A Földön kívüli projekt elérhetősége](https://foldonkivulielet.lajoskiss.repl.co/)
 
 [A Földön kívüli projekt GitHub elérhetősége](https://github.com/Lali98/Lali98.github.io/tree/master/foldon_kivuli_elet)
